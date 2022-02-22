@@ -1,0 +1,27 @@
+.App {
+  margin: 20px auto;
+  width: 350px;
+  padding-left: 35px;
+  border: 3px grey solid;
+  border-radius: 12px;
+}
+
+.input {
+  height: 30px;
+  border: 1px black solid;
+  border-radius: 3px;
+  width: 300px;
+}
+
+.error {
+  margin: 0 !important;
+  color: red;
+  font-size: 10px;
+}
+
+.button {
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  background-color: aquamarine;
+  border: 1px blue solid;
+}
